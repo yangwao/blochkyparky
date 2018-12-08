@@ -1,0 +1,22 @@
+{
+  "name": "blochkyparky",
+  "version": "1.0.0",
+  "description": "pwc hackathon in bratislava",
+  "main": "blochky.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node blochky.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yangwao/blochkyparky.git"
+  },
+  "author": "matej nemcek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yangwao/blochkyparky/issues"
+  },
+  "homepage": "https://github.com/yangwao/blochkyparky#readme"
+}
